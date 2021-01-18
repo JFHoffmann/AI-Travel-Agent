@@ -4,7 +4,7 @@
 Final project for the Building AI course
 
 ## Summary
-The AI Travel Agent offers personalized travel arragement services for the users. It searches for the best options based on user preferences, trip history and other users experiences offering various scenarios. Considering the schedule, cost restrictions and user's priorities it can plan vacacion travels by finding the best fares, making reservations and giving practical advise based on other traveller's experiences.
+The AI Travel Agent offers personalized travel arragement services for the users. It searches for the best options based on user preferences, trip history and other users experiencess.
 
 ## Background
 The problems that travel agents usually face are:
@@ -14,9 +14,10 @@ The problems that travel agents usually face are:
 * manual searchs are slow and tedious
  
 ## How is it used?
-The AI Travel Agent will assist travellers planning their holidays. The user will provide her preferences on various aspects such as schedule, budget, type of travel (adventure, luxury...), preferred types of transports (plane, train...), must-see places, accommodation preferences (hotel, appartment, camping...), special needs or dietary restrictions. 
+The AI Travel Agent will assist travellers planning their holidays. The user will provide her preferences on various aspects such as schedule, budget, type of travel (adventure, luxury...), transports (plane, train...), must-see places, accommodation preferences, special needs or dietary restrictions. 
 
-Based on a combination of factors the AI Travel Agent will calculate different routes and propose various detailed plans and estimated total costs. Depending on the user's flexibility it can easily calculate various routes with different starting and ending locations. The system will consider:
+Based on a combination of factors the AI Travel Agent will calculate different routes and propose various detailed plans and estimated total costs:
+* different starting and ending locations
 * best pricing
 * best time of the year
 * availability of hotel accommodations
@@ -25,13 +26,12 @@ Based on a combination of factors the AI Travel Agent will calculate different r
 * the user feedback from her trip history
 * other user's experiences
 
-Once the user selects the preferred option, the AI Travel Agent will assist buying all the tickets and needed reservations. Based on the risk the travel will encounter it will also propose the best insurance option. For each location the AI Travel Agent can provide local cultural and entertainment suggestions that would need buying tickets in advance. 
+Once the user selects the preferred option, the AI Travel Agent will assist buying all the tickets and needed reservations, propose insurance options based on risk, and provide local cultural and entertainment suggestions that would need buying tickets in advance. 
 
-During the trip, the AI Travel Agent assistance will be available providing any information. Any suggestions can be requested by the user at any time. When needed, the AI Travel Agent will adapt to any changes that may come up (delayed flights, adverse weather forecasts or other unexpected events). It will calculate how the unexpected event affects the current schedule and cost and will propose any needed changes.
-Tje user will be requested with her feedback.
+During the trip, the AI Travel Agent assistance will be available providing any information and additional suggestions. It will adapt to any changes that may come up (delayed flights, adverse weather forecasts or other unexpected events). It will calculate how it affects the current schedule and cost and will propose any needed changes.
 
 ## Data sources and AI methods
-The data for the application will come from the AI Travel Agent database which will store the users preferences, feedbacks and trips history.
+The data for the application will come from the AI Travel Agent database. 
 It will use metasearch engines, transportation sites, online travel platforms, best hotel review sites, insurance companies sites, local events sites.
 
 ## Challenges
@@ -42,4 +42,3 @@ A local guide assistant could be added. Using the user's location and informatio
 
 ## Sources
 https://medium.com/@Imaginovation/ai-assistant-the-future-of-travel-tourism-with-emergence-of-artificial-intelligence-f9ea3cad0cc
-https://www.tts.com/blog/how-ai-can-impact-the-travel-agents-role/
